@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap')
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#dog-heading{
+    margin: 0;
+    background-color: chocolate;
+    padding :0;
+    color: cornsilk;
+    border-style: outset;
+    font-size: 80px;
+    font-family: 'Quintessential', cursive;
+    text-align: center;
+}
+#content p{
+    font-size: 50px;
+    font-family: 'Comforter', cursive;
+    color: darkgoldenrod;
+    margin-left: 20px;
+    padding-top: 1px;
+
+}
+
+#gsd h3 {
+    font-family: 'Quintessential', cursive; 
+    color: darkolivegreen;
+    font-size: 40px;
+}
+#gsd p{
+    font-size: 30px;
+    font-family: 'Comforter',cursive;
+    color: rgb(197, 83, 42);
+}
+#gsd img{
+    
+    padding-left: 200px;
+    border:5px springgreen;
+}
+footer{
+    color: white;
+    background-color: darkgoldenrod;
+    font-size: 80px;
+    font-family: 'Quintessential', cursive;
+    text-align: center;
+}
+#husky img{
+    
+    padding-left: 200px;
+    border:5px springgreen;
+}
+#gold img{
+    
+    padding-left: 200px;
+    border:5px springgreen;
+}
+#gold h3 {
+    font-family: 'Quintessential', cursive; 
+    color: darkolivegreen;
+    font-size: 40px;
+}
+#husky h3 {
+    font-family: 'Quintessential', cursive; 
+    color: darkolivegreen;
+    font-size: 40px;
+}
+#gold p{
+    font-size: 30px;
+    font-family: 'Comforter',cursive;
+    color: rgb(197, 83, 42);
+}
+#husky p{
+    font-size: 30px;
+    font-family: 'Comforter',cursive;
+    color: rgb(197, 83, 42);
+}
